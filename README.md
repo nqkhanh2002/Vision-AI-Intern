@@ -11,7 +11,10 @@
 </div>
 
 <h1 align="center"> Vision AI Intern Exercise </h1>
+
 Candicate Name: Nguyen Quoc Khanh
+
+Email: nqkdeveloper@gmail.com
 
 # Environment Setup
 - Kaggle Notebook
@@ -20,8 +23,8 @@ Candicate Name: Nguyen Quoc Khanh
 
 ## Exercise 1
 
-- For all training model, please refer to the notebook named `Vision_AI_Intern_Exercise.ipynb` in the Source folder or edit my notebook and run all at [here](https://www.kaggle.com/code/masterofdeception/nqk-vision-ai-intern-assignment)
-- For testing as video demo, please refer to the notebook named `Vision_AI_Intern_Exercise_Demo.ipynb` in the Source folder or edit my notebook and run all at [here](https://www.kaggle.com/masterofdeception/testing-exercise-1)
+- For all training model, please refer to the notebook named `NQK - Vision AI intern assignment`: edit my notebook and run all at [here](https://www.kaggle.com/code/masterofdeception/nqk-vision-ai-intern-assignment)
+- For testing as video demo, please refer to the notebook named `NQK- Testing Exercise 1`: edit my notebook and run all at [here](https://www.kaggle.com/masterofdeception/testing-exercise-1)
 - For training logs and pre-trained model, please refer to the kaggle dataset at [here](https://www.kaggle.com/datasets/masterofdeception/pretrained-excercise-1-nqk)
 - All report and analysis are in the file named `Vision_AI_Intern_Exercise_Report.pdf` in the Source folder
 
