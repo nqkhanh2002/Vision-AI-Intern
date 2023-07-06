@@ -32,6 +32,8 @@ Email: nqkdeveloper@gmail.com
   - Run `python app.py` to start the server
   - Open `http://localhost:5000/` to see the GUI 
   - Upload the image and click `Submit` to see the result
+![alt text](static/GUI_1.png)
+![alt text](static/GUI_2.png)
 
 **Note**: My pretrained model has large size, so I can't deploy it to the server/platform for free services as streamlit, heroku, render, etc.
 
