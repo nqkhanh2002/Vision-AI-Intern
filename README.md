@@ -27,6 +27,6 @@ Email: nqkdeveloper@gmail.com
 - For testing as video demo, please refer to the notebook named `NQK- Testing Exercise 1`: edit my notebook and run all at [here](https://www.kaggle.com/masterofdeception/testing-exercise-1)
 - For training logs and pre-trained model, please refer to the kaggle dataset at [here](https://www.kaggle.com/datasets/masterofdeception/pretrained-excercise-1-nqk)
 - All report and analysis are in the file named `Vision_AI_Intern_Exercise_Report.pdf` in the Source folder
-
+- Deployed model at [here](https://cat-dog-classification.onrender.com/)
 ## Exercise 2
 - All report and analysis are in the file named `Vision_AI_Intern_Exercise_Report.pdf` in the Source folder
