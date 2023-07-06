@@ -27,6 +27,11 @@ Email: nqkdeveloper@gmail.com
 - For testing as video demo, please refer to the notebook named `NQK- Testing Exercise 1`: edit my notebook and run all at [here](https://www.kaggle.com/masterofdeception/testing-exercise-1)
 - For training logs and pre-trained model, please refer to the kaggle dataset at [here](https://www.kaggle.com/datasets/masterofdeception/pretrained-excercise-1-nqk)
 - All report and analysis are in the file named `Vision_AI_Intern_Exercise_Report.pdf` in the Source folder
-- Deployed model at [here](https://cat-dog-classification.onrender.com/)
+- If you don't want to run at kaggle notebook, you can run at local by using Flask API as below:
+  - Install all dependencies in `requirements.txt` by using `pip install -r requirements.txt`
+  - Run `python app.py` to start the server
+  - Open `http://localhost:5000/` to see the GUI 
+  - Upload the image and click `Submit` to see the result
+
 ## Exercise 2
 - All report and analysis are in the file named `Vision_AI_Intern_Exercise_Report.pdf` in the Source folder
