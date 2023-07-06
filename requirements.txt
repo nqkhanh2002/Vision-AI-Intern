@@ -1,0 +1,9 @@
+numpy
+tensorflow==2.9
+Keras
+Flask
+gunicorn
+Werkzeug
+Jinja2
+itsdangerous
+MarkupSafe

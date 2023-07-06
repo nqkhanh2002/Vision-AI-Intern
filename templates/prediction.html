@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <link href="static/style.css" rel="stylesheet">
+        <style>
+            /* Add custom CSS styles for center alignment */
+            .center-align {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+            }
+
+            .btn-container {
+                margin-top: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="center-align">
+            <div class='cont'>
+                {% if data[0] == 1 %}
+                    <h1>Looks like a dog</h1>
+                {% else %}
+                    <h1>Looks like a cat</h1>
+                {% endif %}
+            </div>
+            <h1>Confidence Score: {{ data[1] }}</h1>
+            <img src="{{ data[2] }}" alt='img'>
+            <div class="btn-container">
+                <a href="/" class='btn'>Go Back</a>
+            </div>
+        </div>
+    </body>
+</html>
