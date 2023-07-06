@@ -1,6 +1,7 @@
 numpy
 tensorflow==2.9
 Keras
+matplotlib
 Flask
 gunicorn
 Werkzeug
