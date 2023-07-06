@@ -33,5 +33,7 @@ Email: nqkdeveloper@gmail.com
   - Open `http://localhost:5000/` to see the GUI 
   - Upload the image and click `Submit` to see the result
 
+**Note**: My pretrained model has large size, so I can't deploy it to the server/platform for free services as streamlit, heroku, render, etc.
+
 ## Exercise 2
 - All report and analysis are in the file named `Vision_AI_Intern_Exercise_Report.pdf` in the Source folder
