@@ -1,11 +1,10 @@
 numpy
 tensorflow==2.9
-Keras==2.9.0
-protobuf==3.9.2
-matplotlib
+Keras
 Flask
 gunicorn
 Werkzeug
 Jinja2
 itsdangerous
+matplotlib
 MarkupSafe
